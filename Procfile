@@ -1,3 +1,3 @@
 # Modify this Procfile to fit your needs
-web: gunicorn botijaogas:app
+gunicorn -b :$PORT main:app
 
