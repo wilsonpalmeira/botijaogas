@@ -10,4 +10,4 @@ if __name__ == '__main__':
     app.run(debug=True)
 # gunicorn myapp:app 
 # servidor do render.com
-# https://github.com/wilsonpalmeira/botijaogas-ja.git
+# https://github.com/wilsonpalmeira/botijaogas.git
