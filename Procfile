@@ -1,4 +1,2 @@
 # Modify this Procfile to fit your needs
-web: gunicorn botijaoGas:app
-
-
+web: gunicorn botijaogas:app
